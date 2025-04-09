@@ -19,7 +19,7 @@ const HomePage = () => {
                 <h1 className={darkMode ? 'font-semibold md:text-5xl text-3xl text-transparent bg-clip-text bg-gradient-to-r from-[#d4af37] via-[#e6e8ec] to-[#b0c4de] border-b-2 border-gray-300 pb-4' : 'font-semibold md:text-5xl text-3xl text-transparent bg-clip-text bg-gradient-to-r from-[#b29600] via-[#ffe680] to-[#b29600] border-b-2 border-gray-300 pb-4'}>About Us - JEEVault</h1>
               </div>
               <div>
-                <p className='border-l-2 border-neutral-400 pl-2'>JEEVault is your go-to vault of high-quality educational videos designed to help you crack the JEE with confidence.</p>
+                <p className='border-l-2 border-neutral-400 pl-2'>JEEVault s your go-to vault of high-quality educational videos designed to help you crack the JEE with confidence.</p>
               </div>
               <div>
                 <p className='border-l-2 border-neutral-400 pl-2'>We've handpicked the most useful, clear, and effective video content across Physics, Chemistry, and Math to make your prep smoother. No clutter. No distractions. Just pure learning.</p>
